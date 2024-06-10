@@ -31,7 +31,7 @@
     "typescript-eslint": "^7.1.1"
   },
   "dependencies": {
-    "@grpc/grpc-js": "1.10.1",
+    "@grpc/grpc-js": "1.10.9",
     "async-mutex": "^0.5.0",
     "dotenv": "16.4.5",
     "google-protobuf": "3.21.2",
